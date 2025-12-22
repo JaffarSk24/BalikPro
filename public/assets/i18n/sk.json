@@ -1,0 +1,136 @@
+{
+  "menu": {
+    "bundles": "Balíky",
+    "how": "Ako to funguje",
+    "partner": "Partner"
+  },
+  "hero": {
+    "title": "Výhodné balíky služieb<br> priamo na <span class='highlight'>Slovensku</span>",
+    "desc": "Objavte našu ponuku balíkov služieb s úžasnými úsporami. Jedna hlavná služba + bonus služby od overených partnerov.",
+    "btnBundles": "Pozrieť balíky",
+    "btnHow": "Ako to funguje"
+  },
+  "loading": "Načítavam balíky...",
+  "bundles": {
+    "title": "Dostupné balíky",
+    "desc": "Vyberte si z našej ponuky výhodných balíkov služieb",
+    "noResults": "Žiadne výsledky",
+    "noResultsDesc": "Nenašli sme žiadne balíky podľa vašich kritérií."
+  },
+  "how": {
+    "title": "Ako to funguje",
+    "desc": "Jednoduchý proces v 4 krokoch",
+    "step1Title": "Vyberte balík",
+    "step1Desc": "Prejdite si našu ponuku a vyberte balík služieb, ktorý vám vyhovuje.",
+    "step2Title": "Objednajte online",
+    "step2Desc": "Vyplňte svoje údaje a zaplaťte bezpečne online kartou alebo cez Revolut Pay.",
+    "step3Title": "Dostanete kupóny",
+    "step3Desc": "Na email vám pošleme PDF s kupónmi a QR kódmi pre všetky služby.",
+    "step4Title": "Využite služby",
+    "step4Desc": "Navštívte partnerov a aktivujte kupóny jednoduchým naskenovaním QR kódu."
+  },
+  "modal": {
+    "title": "Detail balíka",
+    "cancel": "Zrušiť",
+    "order": "Objednať za",
+    "proceedToPayment": "Pokračovať k platbe",
+    "mainService": "Hlavná služba"
+  },
+  "footer": {
+    "about": "Váš partner pre výhodné balíky služieb na Slovensku.",
+    "links": "Odkazy",
+    "contact": "Kontakt",
+    "email": "Email",
+    "phone": "Telefón",
+    "legal": "Právne",
+    "privacy": "Ochrana údajov",
+    "terms": "Obchodné podmienky",
+    "rights": "© {year} Balík PRO. Všetky práva vyhradené. Vytvorila spoločnosť White Eagles & Co. s.r.o."
+  },
+  "bundle": {
+    "mainService": "Hlavná služba + bonus výhody od partnerov",
+    "partner": "Partner",
+    "contact": "Kontakt",
+    "totalSaving": "Celková úspora",
+    "payOnly": "Plaťte len",
+    "bonusServices": "bonus služieb",
+    "clickForDetails": "Kliknite pre zobrazenie detailov",
+    "savings": "Ušetríte",
+    "value": "Hodnota",
+    "bonusServicesFree": "Bonus služby (zadarmo)",
+    "free": "ZADARMO",
+    "instead": "namiesto",
+    "gift": "DARČEK"
+  },
+  "checkout": {
+    "title": "Zadanie objednávky",
+    "fullName": "Meno a priezvisko",
+    "phone": "Telefón",
+    "orderSummary": "Zhrnutie objednávky",
+    "package": "Balík",
+    "total": "Celkom",
+    "paymentInfo": "Po úspešnej platbe vám na email pošleme PDF s kupónmi a QR kódmi.",
+    "validityInfo": "Kupóny budú platné 1 rok od dátumu zakúpenia.",
+    "cancel": "Zrušiť",
+    "proceedToPayment": "Prejsť na platbu",
+    "email": "Email",
+    "submit": "Odoslať objednávku",
+    "namePlaceholder": "Ján Novák",
+    "emailPlaceholder": "meno@example.com",
+    "phonePlaceholder": "+421 900 000 000",
+    "consent": "Súhlasím so spracovaním osobných údajov",
+    "requiredMark": "* — povinné polia",
+
+    "pageTitle": "Objednávka - Balík PRO",
+    "yourOrder": "Váš balík",
+    "contactDetails": "Kontaktné údaje",
+    "sending": "Odosielam...",
+    "emptyCart": "Váš košík je prázdny.",
+    "error": "Chyba pri odoslaní objednávky",
+    "consentNotice": "Kliknutím na tlačidlo súhlasíte s prijímaním, spracovaním a uchovávaním osobných údajov v súlade so <a href=\"privacy\" target=\"_blank\" rel=\"noopener\">zásadami ochrany osobných údajov</a>."
+  },
+  "cart": {
+    "title": "Košík",
+    "clear": "Vyprázdniť košík",
+    "checkout": "Objednať",
+    "empty": "Košík je prázdny",
+    "total": "Celkom",
+    "bonusLine": "+ {count} bonus služieb od partnerov zadarmo",
+    "added": "Balík bol pridaný do košíka"
+  },
+  "errors": {
+    "required": "Povinné pole",
+    "invalidEmail": "Neplatný email",
+    "invalidPhone": "Neplatné telefónne číslo",
+    "orderFailed": "Chyba pri odoslaní objednávky: {msg}"
+  },
+  "common": {
+    "backHome": "Späť na hlavnú stránku",
+    "partnerLogin": "Partner prihlásenie",
+    "tryAgain": "Skúsiť znovu"
+  },
+  "success": {
+    "pageTitle": "Platba úspešná - Balík PRO",
+    "paidTitle": "Platba bola úspešná!",
+    "thanks": "Ďakujeme za vašu objednávku {orderNumber}.",
+    "sentTo": "Kupóny vám pošleme na email {email}.",
+    "nextTitle": "Čo bude nasledovať?",
+    "next1": "📧 Kupóny dostanete na email do 5 minút",
+    "next2": "📱 V emaili nájdete PDF s QR kódmi",
+    "next3": "🏪 Navštívte partnerov a aktivujte kupóny",
+    "next4": "🎉 Užite si vaše služby!",
+    "processingTitle": "Spracovávame vašu platbu...",
+    "processingDesc": "Vaša objednávka je v procese spracovania. Prosím, počkajte chvíľu alebo obnovte stránku."
+  },
+  "failure": {
+    "pageTitle": "Platba neúspešná - Balík PRO",
+    "title": "Platba nebola úspešná",
+    "desc": "Bohužiaľ, pri spracovaní vašej platby došlo k chybe. Objednávka nebola dokončená a žiadna suma nebola stiahnutá z vašej karty.",
+    "causesTitle": "Možné príčiny:",
+    "causeInsufficientFunds": "Nedostatok prostriedkov na karte",
+    "causeInvalidCard": "Nesprávne údaje platobnej karty",
+    "causeBlockedOrExpired": "Karta je zablokovaná alebo expirovaná",
+    "causeTemporaryError": "Dočasná chyba platobného systému",
+    "orderAvailable": "Objednávka {orderNumber} zostáva k dispozícii na opätovné zaplatenie."
+  }
+}

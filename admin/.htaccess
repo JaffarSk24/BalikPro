@@ -1,0 +1,35 @@
+
+# Protect admin directory
+AuthType Basic
+AuthName "Balík PRO Admin Area"
+Require valid-user
+
+# Only allow access to specific files
+<Files "textolite.php">
+    Allow from all
+    Satisfy Any
+</Files>
+
+<Files "textolite.css">
+    Allow from all
+    Satisfy Any
+</Files>
+
+<Files "textolite.js">
+    Allow from all
+    Satisfy Any
+</Files>
+
+<Files "conf.ini">
+    Deny from all
+</Files>
+
+<Files "lang.ini">
+    Allow from all
+    Satisfy Any
+</Files>
+
+# Deny everything else by default
+<FilesMatch "^(?!textolite\.(php|css|js)|lang\.ini)">
+    Deny from all
+</FilesMatch>

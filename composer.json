@@ -1,0 +1,22 @@
+{
+    "name": "balikpro/mvp",
+    "description": "Balík PRO MVP - Slovak coupon and services portal",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "ext-pdo": "*",
+        "ext-gd": "*",
+        "ext-json": "*",
+        "firebase/php-jwt": "^6.0",
+        "mpdf/mpdf": "^8",
+        "phpqrcode/phpqrcode": "dev-master as 2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BalikPro\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
